@@ -1,2 +1,2 @@
 # mug
-Extract text from a PDF file
+Collection of basic source codes
